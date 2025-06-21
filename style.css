@@ -1,0 +1,32 @@
+h1 {font-family: Georgia;
+   font-size: 28px;
+   text-align: center;   
+   color: black;
+}
+
+h2 {font-family: Georgia;
+   font-size: 22px;
+   text-align: left;   
+   color: blue;
+}
+    
+h3 {font-family: Georgia;
+   font-size: 22px;
+   text-align: left;   
+   color: red;
+}
+
+.paragrafo {
+    font-family: Open Sans;
+    font-size: 18px;
+    text-align: left;
+    color: black;}
+
+p {font-family: Georgia;
+   font-size: 18px;
+   text-align: left;   
+   color: brown;
+}
+
+
+  
